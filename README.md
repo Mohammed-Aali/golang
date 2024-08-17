@@ -1,2 +1,2 @@
 # golang
-golang learnign
+golang learning
